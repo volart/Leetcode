@@ -14,6 +14,7 @@
     <module>FirstMissingPositive</module>
     <module>CombinationSum3</module>
     <module>core</module>
+    <module>JewelsAndStones</module>
   </modules>
 
   <name>Leetcode</name>
