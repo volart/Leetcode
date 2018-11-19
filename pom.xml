@@ -13,6 +13,7 @@
     <module>MergeTwoBinaryTrees</module>
     <module>FirstMissingPositive</module>
     <module>CombinationSum3</module>
+    <module>core</module>
   </modules>
 
   <name>Leetcode</name>
