@@ -15,10 +15,11 @@
     <module>CombinationSum3</module>
     <module>core</module>
     <module>JewelsAndStones</module>
+      <module>FindTheDuplicateNumber</module>
+      <module>CombinationSum2</module>
   </modules>
 
   <name>Leetcode</name>
-  <url>https://leetcode.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
